@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "For JavaScript",
+  "main": "Helloworld.js",
+  "scripts": {
+    "test": "npm test",
+    "hello": "node Helloworld.js"
+  },
+  "author": "Landon Davis",
+  "license": "ISC"
+}
